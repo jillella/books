@@ -1,0 +1,84 @@
+{
+"all": {
+    "description": "All File Types",
+    "fileType": "ALL",
+    "fileTypes": []
+  },
+  "portfolio": {
+    "description": "Portfolio Files",
+    "fileType": "PORTFOLIO",
+    "fileTypes": [
+      {
+        "description": "Advent",
+        "fileType": "AD"
+      },
+      {
+        "description": "Advent B",
+        "fileType": "ADB"
+      },
+      {
+        "description": "CapTools",
+        "fileType": "CT"
+      },
+      {
+        "description": "CapTools B",
+        "fileType": "CTB"
+      },
+      {
+        "description": "CapTools R",
+        "fileType": "CTR"
+      }
+    ]
+  },
+  "monthly": {
+    "description": "Monthly Statements",
+    "fileType": "OS",
+    "fileTypes": []
+  },
+  "monthlyTDW": {
+    "description": "Monthly Statements (former TDW)",
+    "fileType": "OSA",
+    "fileTypes": []
+  },
+  "trade": {
+    "description": "Trade Confirmations",
+    "fileType": "OC",
+    "fileTypes": []
+  },
+  "sdb": {
+    "description": "SDB Reports",
+    "fileType": "SDB",
+    "fileTypes": [
+      {
+        "description": "SDB 5500 Reports",
+        "fileType": "SFF"
+      },
+      {
+        "description": "SDB SCHC Report",
+        "fileType": "SCH"
+      }
+    ]
+  },
+  "tax": {
+    "description": "Tax Documents",
+    "fileType": "TAX",
+    "fileTypes": [
+      {
+        "description": "1042S",
+        "fileType": "TXB"
+      },
+      {
+        "description": "1099-C",
+        "fileType": "TXJ"
+      },
+      {
+        "description": "1099-Consolidated",
+        "fileType": "TX1"
+      },
+      {
+        "description": "1099-Nonreportable",
+        "fileType": "TXA"
+      }
+    ]
+  }
+}
